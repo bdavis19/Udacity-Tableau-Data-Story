@@ -5,10 +5,6 @@ date: "11/13/2018"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 This looks at flight data from 2008 as provided by: http://stat-computing.org/dataexpo/2009/the-data.html
 
 The file with the flight data was too large to upload to GitHub. The other two data files have been included.
